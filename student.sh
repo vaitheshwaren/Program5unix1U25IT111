@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Linux Practical: Create a File Using echo
@@ -17,5 +18,7 @@
 #    This text will be appended.
 
 # Write your commands below this line:
-
+echo "Hello, World!"
+echo "This is a sample file."> sample.txt
+echo "This text will be appended.">> sample.txt
 
